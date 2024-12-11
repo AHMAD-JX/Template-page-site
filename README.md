@@ -15,8 +15,7 @@ Welcome to the **Template Page Site** repository! This project showcases a moder
 
 ## 🖼️ Preview
 
-[Simple Template To Face The Website.](https://github.com/AHMAD-JX/Template-page-site/blob/1e94e50a45073c8ded3129c793e472958184e272/screenshots/gif.gif)
-
+![Site Preview]([animated-preview.gif](https://github.com/AHMAD-JX/Template-page-site/blob/879adf188443b99f149b6f652f8a484bae93b1a8/screenshots/gif.gif))
 
 > _A sleek and modern design tailored for universal compatibility._
 
