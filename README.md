@@ -15,7 +15,7 @@ Welcome to the **Template Page Site** repository! This project showcases a moder
 
 ## 🖼️ Preview
 
-![Site Preview]([animated-preview.gif](https://github.com/AHMAD-JX/Template-page-site/blob/879adf188443b99f149b6f652f8a484bae93b1a8/screenshots/gif.gif))
+![Preview](https://github.com/AHMAD-JX/Template-page-site/blob/0846c62ccfae3fc684695e725e67b6d3551bd22e/screenshots/gif.gif)
 
 > _A sleek and modern design tailored for universal compatibility._
 
@@ -37,7 +37,7 @@ Welcome to the **Template Page Site** repository! This project showcases a moder
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/template-page-site.git
+   git clone https://github.com/AHMAD-JX/Template-page-site.git
    ```
 2. Open the `index.html` file in your preferred browser.
 
